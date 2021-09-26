@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/49680351/134789757-93fe02d0-a176-430e-b75e-457adb852f8a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/49680351/134789757-93fe02d0-a176-430e-b75e-457adb852f8a.gif" width="200px" align="right" alt="Computador Samuel">
 
 <p align="left"> 
-  Olá, meu nome é Samuel Alves, sou Desenvolvedor **Front End**, e estudante de Sistemas de Informação.
+  Olá, meu nome é Samuel Alves, sou Desenvolvedor <strong>Front End</strong>, e estudante de Sistemas de Informação.
 </p>
 
 <p align="left">
