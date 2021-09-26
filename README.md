@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49680351/134790219-bb70b436-fc24-434a-a302-b4c2d1aa6c84.gif" width="200px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/49680351/134790291-571f827a-cf3a-4247-904a-011622bbffea.gif" width="200px" align="right" alt="Computador">
 
 <p align="left"> 
  🌌 Olá, meu nome é Samuel Alves, sou Desenvolvedor <strong>Front End</strong>, e estudante de Sistemas de Informação.
