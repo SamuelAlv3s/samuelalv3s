@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- 🧩 Habilidades: <strong>HTML, CSS, Javascript, Angular, Ionic, Sass, Nodejs, Express, Firebase.</strong>
+ 🧩 Habilidades: <strong>HTML, CSS, Javascript, Typescript, Angular, Ionic, Sass, Next, React, Nodejs, Express, Firebase, MongoDB.</strong>
 </p>
 
 <p align="left">
