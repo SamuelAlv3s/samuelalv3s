@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
+<img src="https://user-images.githubusercontent.com/49680351/134790328-8fbd5751-1d88-457a-8b86-fc7cc2b89ee8.gif" width="200px" align="right" alt="Computador">
 <h3 align="center">
   Hello, my name is Samuel Alves, I'm a Software Developer, and an Information Systems student.
 </h3>
 
-<img src="https://user-images.githubusercontent.com/49680351/134790328-8fbd5751-1d88-457a-8b86-fc7cc2b89ee8.gif" width="200px" align="right" alt="Computador">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
